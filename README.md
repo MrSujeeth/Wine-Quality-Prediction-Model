@@ -24,6 +24,7 @@ Total features: 12
 Target column: quality
 
 📊 **Work Done**
+
 ✔ Data Collection
 
 Loaded the dataset and inspected rows, columns, and missing values.
