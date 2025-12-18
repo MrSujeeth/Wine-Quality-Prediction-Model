@@ -1,9 +1,9 @@
-🍷 Wine Quality Prediction (Machine Learning)
+🍷 **Wine Quality Prediction (Machine Learning)**
 
 This project predicts the quality of red wine using Machine Learning.
 The goal is to classify wine as either Good Quality or Bad Quality based on chemical properties.
 
-📌 Project Description
+📌 **Project Description**
 
 Used the Red Wine Quality dataset
 
@@ -15,7 +15,7 @@ Trained a Random Forest Classifier
 
 Achieved high prediction accuracy
 
-🧪 Dataset
+🧪 **Dataset**
 
 Total records: 1599
 
@@ -23,7 +23,7 @@ Total features: 12
 
 Target column: quality
 
-📊 Work Done
+📊 **Work Done**
 ✔ Data Collection
 
 Loaded the dataset and inspected rows, columns, and missing values.
@@ -54,7 +54,7 @@ Achieved around 92.5% accuracy on test data.
 
 Built a simple system that predicts whether a given wine sample is Good or Bad based on input values.
 
-🛠 Tools & Libraries
+🛠 **Tools & Libraries**
 
 Python
 
@@ -68,7 +68,7 @@ Seaborn
 
 Scikit-Learn
 
-🚀 Outcome
+🚀 **Outcome**
 
 Accurate classification of wine quality
 
